@@ -1,0 +1,16 @@
+.search {
+    display: flex;
+    margin: 15px 0;
+  }
+  
+
+.search_contents{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.tb{
+  width: 50%;
+}
