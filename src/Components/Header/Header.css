@@ -4,7 +4,7 @@
     position: fixed;
     display: flex;
     justify-content: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     background-color: #39445a;
     font-family: "Montserrat", sans-serif;
     font-size: 3vw;

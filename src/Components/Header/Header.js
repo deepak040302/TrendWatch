@@ -3,7 +3,7 @@ import "./Header.css";
 
 const Header = () => {
   return (
-    <span onClick={() => window.scroll(0, 0)} className='header'>🎦 MOVIX 🎦</span>
+    <span onClick={() => window.scroll(0, 0)} className='header'>🎦 Trending Screen 🎦</span>
   )
 }
 
